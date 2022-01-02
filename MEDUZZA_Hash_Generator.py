@@ -30,7 +30,7 @@ while True:
 	print()
 	print(Fore.YELLOW + "github.com/meduzzabytes | Instagram @antonio_gonzalez_cr")
 	print()
-	print("                                      Coded by Antonio Gonzalez\nV 0.3")
+	print("                                      Coded by MEDUZZA\nV 0.3")
 	print(Style.RESET_ALL)
 
 	print()
